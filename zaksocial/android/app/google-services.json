@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693024808465",
+    "project_id": "zaksocial-56663",
+    "storage_bucket": "zaksocial-56663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693024808465:android:23dd0fcebdf5e7dc8b5bb0",
+        "android_client_info": {
+          "package_name": "com.example.zaksocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT67tto3bldAGqZsV1Wgufh-U8CT8dei4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

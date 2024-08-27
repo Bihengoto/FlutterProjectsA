@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241279879385",
+    "project_id": "zakchat-1a082",
+    "storage_bucket": "zakchat-1a082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241279879385:android:0bd16f246f4a7e857c16c8",
+        "android_client_info": {
+          "package_name": "com.example.zakchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAAZsSOlVn6ivomlHunDgfySP3SrArZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
